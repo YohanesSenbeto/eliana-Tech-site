@@ -29,9 +29,9 @@ const Header = (prop) => {
   const searchRef = createRef();
   const bannerMessage = 'Eliana Tech site';
   const searchSuggestions = [
-    'Oversize sweaters',
-    'Lama Pajamas',
-    'Candles Cinnamon',
+    'D-link router',
+    'ZTE router',
+    'Huawei router',
   ];
 
   const handleHover = (navObject) => {
